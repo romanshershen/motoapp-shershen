@@ -3,7 +3,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.shershen.motoapp",
-    "sha256_cert_fingerprints":
-    ["7B:71:90:1C:98:3C:A8:47:6C:1B:C3:9A:34:FB:DC:D0:A1:6F:86:46:CE:DC:92:03:7A:9C:54:B8:E6:50:FE:C6"]
+    "sha1_cert_fingerprints":
+    ["FF:5A:86:5D:50:8C:62:91:56:82:3F:A7:D7:39:54:81:97:23:BC:93"]
   }
 }]
